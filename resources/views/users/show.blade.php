@@ -19,6 +19,7 @@
                 <li>
                     <div class="status-label">HAVE</div>
                     <div id="have_count" class="status-value">
+                        <!--task1-->
                         {{ $count_have }}
                     </div>
                 </li>
